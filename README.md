@@ -30,7 +30,7 @@ OLA-Ride-Analytics/
 ├── images/
 │   ├── Dashboard.png
 │   ├── Revenue.png
-│   ├── Booking_Status.png
+│   ├── Cancellation.png
 │   ├── Ratings.png
 │   └── Vehicle_Type.png
 │
