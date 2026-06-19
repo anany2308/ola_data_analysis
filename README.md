@@ -1,11 +1,11 @@
 
-# 🚖 OLA Ride Analytics Dashboard
+#  OLA Ride Analytics Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-Analysis-blue?logo=mysql)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green?logo=microsoft-excel)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes OLA ride booking data using **SQL** and **Power BI** to uncover valuable business insights related to ride demand, cancellations, customer satisfaction, revenue, payment methods, and vehicle performance.
 
@@ -13,7 +13,7 @@ The project demonstrates end-to-end data analysis skills, including data cleanin
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```
 OLA-Ride-Analytics/
@@ -39,7 +39,7 @@ OLA-Ride-Analytics/
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 - SQL
 - Power BI
@@ -49,7 +49,7 @@ OLA-Ride-Analytics/
 
 ---
 
-# 📊 Dataset Information
+#  Dataset Information
 
 The dataset contains information about OLA ride bookings including:
 
@@ -66,7 +66,7 @@ The dataset contains information about OLA ride bookings including:
 
 ---
 
-# 📝 SQL Business Problems Solved
+#  SQL Business Problems Solved
 
 - Retrieve all successful bookings
 - Calculate average ride distance by vehicle type
@@ -81,7 +81,7 @@ The dataset contains information about OLA ride bookings including:
 
 ---
 
-# 📈 Dashboard Features
+#  Dashboard Features
 
 ✔ Ride Volume Over Time
 
@@ -105,7 +105,7 @@ The dataset contains information about OLA ride bookings including:
 
 ---
 
-# 📸 Dashboard Preview
+#  Dashboard Preview
 
 ## Main Dashboard
 
@@ -117,7 +117,7 @@ images/Dashboard.png
 
 ---
 
-# 📊 Key KPIs
+#  Key KPIs
 
 - Total Bookings
 - Successful Bookings
@@ -130,7 +130,7 @@ images/Dashboard.png
 
 ---
 
-# 💡 Key Insights
+#  Key Insights
 
 - Prime Sedan generated the highest booking revenue.
 - UPI emerged as the most preferred payment method.
@@ -141,7 +141,7 @@ images/Dashboard.png
 
 ---
 
-# 📌 Business Recommendations
+#  Business Recommendations
 
 - Improve driver availability during peak hours.
 - Introduce incentives to reduce driver cancellations.
@@ -151,7 +151,7 @@ images/Dashboard.png
 
 ---
 
-# 📁 Files Included
+#  Files Included
 
 | Folder | Description |
 |---------|-------------|
@@ -162,7 +162,7 @@ images/Dashboard.png
 
 ---
 
-# 🚀 How to Use
+#  How to Use
 
 1. Download the repository.
 2. Open the Power BI (.pbix) file.
@@ -172,7 +172,7 @@ images/Dashboard.png
 
 ---
 
-# 📚 Skills Demonstrated
+#  Skills Demonstrated
 
 - Data Cleaning
 - SQL Querying
@@ -187,12 +187,7 @@ images/Dashboard.png
 
 ---
 
-# 👨‍💻 Author
 
-**Anany Dixit**
-
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub Profile URL)*
 
 ---
 
