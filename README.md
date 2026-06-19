@@ -109,10 +109,10 @@ The dataset contains information about OLA ride bookings including:
 
 ## Main Dashboard
 
-> *(Add your screenshot here)*
+> images/Dashboard.png
 
 ```
-Images/Dashboard.png
+
 ```
 
 ---
