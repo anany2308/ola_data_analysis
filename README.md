@@ -162,15 +162,6 @@ images/Dashboard.png
 
 ---
 
-#  How to Use
-
-1. Download the repository.
-2. Open the Power BI (.pbix) file.
-3. Refresh the dataset if required.
-4. Explore interactive dashboard visuals.
-5. Execute SQL queries using the provided dataset.
-
----
 
 #  Skills Demonstrated
 
@@ -189,6 +180,5 @@ images/Dashboard.png
 
 
 
----
 
-## ⭐ If you found this project useful, consider giving it a star!
+
